@@ -5,9 +5,9 @@ A wrapper / clone of yii-phpexcel (@marcovtwout) for the PHPWord library.
 
 ###Install:###
 
-- Unzip the contents of this directory to protected/extensions/phpword
-- Download the latest version of PHPWord: https://phpword.codeplex.com/
-- Unzip the contents of the folder Classes to a new folder protected/extensions/phpword/vendor
+1. Unzip the contents of this directory to protected/extensions/phpword
+2. Download the latest version of PHPWord: https://phpword.codeplex.com/
+3. Unzip the contents of the folder Classes to a new folder protected/extensions/phpword/vendor
 
 ###Usage:###
 
