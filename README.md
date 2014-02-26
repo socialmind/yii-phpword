@@ -11,10 +11,10 @@ A wrapper / clone of yii-phpexcel (@marcovtwout) for the PHPWord library.
 
 ###Usage:###
 
-'''Yii::import('ext.phpword.XPHPWord');      
-$phpWord = XPHPWord::createPHPWord();'''
+    Yii::import('ext.phpword.XPHPWord');      
+    $phpWord = XPHPWord::createPHPWord();
 
 Or if you don't want a PHPExcel object:
 
-'''Yii::import('ext.phpword.XPHPWord');      
-XPHPWord::init();'''
+    Yii::import('ext.phpword.XPHPWord');      
+    XPHPWord::init();
